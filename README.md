@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melih10
-- 👀 I’m interested in mobile development.
-- 🌱 I’m currently learning flutter.
+- 👀 I’m interested in web and mobile development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
