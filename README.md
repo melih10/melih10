@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @melih10
 - 👀 I’m interested in web and mobile development.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on React.js.
+- 🌱 I’m currently learning React and Swift
+- 💞️ I’m looking to collaborate on React.js and Swift.
 - 📫 How to reach me ...
 
 <!---
